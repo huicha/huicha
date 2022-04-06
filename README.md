@@ -41,9 +41,6 @@
     <a href="https://postman.com" target="_blank" rel="noreferrer">
         <img src="https://www.jhipster.tech/images/logo/svg/react.svg" alt="react" width="40" height="40"/>
     </a>
-    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
-        <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
-    </a> 
     <a href="https://postman.com" target="_blank" rel="noreferrer">
         <img src="https://www.jhipster.tech/images/logo/svg/redux.svg" alt="redux" width="40" height="40"/>
     </a>
@@ -68,4 +65,76 @@
     <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
     </a> 
+</p>
+
+<h3 class="heading">Server side options</h3>
+<p align="left">
+    <a>
+        <img src="https://www.jhipster.tech/images/logo/svg/spring-boot.svg" width="40" height="40"/>
+    </a>
+    <a>
+        <img src="https://www.jhipster.tech/images/logo/icons/spring.png" width="40" height="40"/>
+    </a>
+    <a>
+        <img src="https://www.jhipster.tech/images/logo/icons/gradle.png" width="40" height="40"/>
+    </a>
+    <a>
+        <img src="https://www.jhipster.tech/images/logo/icons/maven.png" width="40" height="40" />
+    </a>
+    <a>
+        <img src="https://www.jhipster.tech/images/logo/svg/hibernate.svg" width="40" height="40"/> 
+    </a>
+    <a>
+        <img src="https://www.jhipster.tech/images/logo/icons/liquibase.gif" width="40" height="40" />
+    </a>
+    <a>
+        <img src="https://www.jhipster.tech/images/logo/svg/mysql.svg" width="40" height="40"/>
+    </a>
+    <a>
+        <img src="https://www.jhipster.tech/images/logo/svg/postgresql.svg" width="40" height="40"/>
+    </a>
+    <a>
+        <img src="https://www.jhipster.tech/images/logo/icons/mssql.png" width="40" height="40"/>  
+    </a>
+    <a>
+        <img src="https://www.jhipster.tech/images/logo/icons/mongo.png" width="40" height="40"/>
+    </a>
+    <a>
+        <img src="https://www.jhipster.tech/images/logo/svg/elasticsearch.svg" width="40" height="40"/>
+    </a>
+    <a>
+        <img src="https://www.jhipster.tech/images/logo/icons/swagger.png" width="40" height="40"/>
+    </a>
+    <a>
+        <img src="https://www.jhipster.tech/images/logo/icons/thymeleaf.png" width="40" height="40"/>
+    </a>
+</p>
+
+<h3 class="heading">Deployment options</h3>
+<p align="left">
+    <a>
+        <img src="https://www.jhipster.tech/images/logo/svg/docker.svg" width="40" height="40"/>
+    </a>
+    <a>
+        <img src="https://www.jhipster.tech/images/logo/svg/heroku.svg" width="40" height="40"/>
+    </a>
+    <a>
+        <img src="https://www.jhipster.tech/images/logo/svg/aws.svg" width="40" height="40"/>
+    </a>
+    <a>
+        <img src="https://www.jhipster.tech/images/logo/gcp.png" width="40" height="40"/>     
+    </a>
+</p>
+
+<h3 class="heading">CI/CD options</h3>
+<p align="left">
+    <a>
+        <img src="https://www.jhipster.tech/images/logo/svg/jenkins.svg" width="40" height="40"/>      
+    </a>
+    <a>
+        <img src="https://www.jhipster.tech/images/logo/svg/gitlab.svg" width="40" height="40"/>    
+    </a>
+    <a>
+        <img src="https://www.jhipster.tech/images/logo/svg/github-actions.svg" width="40" height="40"/>
+    </a>
 </p>
