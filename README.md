@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=huicha&label=Profile%20views&color=0e75b6&style=flat" alt="huicha" /> </p>
 
-- 🌱 I’m currently working on **Talenttools as a Technical Leader developer**
+- 🌱 I’m currently working on **SPI as a Software Architect**
 
 - 👨‍💻 All of my projects are available at [github.com/huicha](github.com/huicha)
 
